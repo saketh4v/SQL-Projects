@@ -1,0 +1,10 @@
+client_name,branch_name,solution_group,Salesperson ID,Account Executive,income_class,Amount,income_due_date,revenue_transaction_type
+A,Ahmedabad,"Construction, Power & Infrastructure",3,Nishant Sharma,Cross Sell,139240,17-07-19,Fees
+A,Ahmedabad,"Construction, Power & Infrastructure",3,Nishant Sharma,Cross Sell,139240,21-01-19,Fees
+B,Ahmedabad,GL Client Network (GNB Inward),1,Vinay,Renewal,2200,20-12-19,Fees
+C,Ahmedabad,GL Client Network (GNB Inward),1,Vinay,Renewal,4500,25-01-19,Fees
+D,Ahmedabad,"Construction, Power & Infrastructure",3,Nishant Sharma,Cross Sell,118000,15-03-19,Fees
+E,Ahmedabad,GL Client Network (GNB Inward),1,Vinay,Renewal,2800,28-05-19,Fees
+F,Ahmedabad,GL Client Network (GNB Inward),1,Vinay,Renewal,3241,25-01-19,Fees
+G,Ahmedabad,Liability,2,Abhinav Shivam,New,100000,10-04-19,Fees
+H,Ahmedabad,GL Client Network (GNB Inward),1,Vinay,Renewal,5310,06-12-19,Fees

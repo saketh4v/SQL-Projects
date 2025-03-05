@@ -1,0 +1,50 @@
+opportunity_name,opportunity_id,Account Exe Id,Account Executive,premium_amount,revenue_amount,closing_date,stage,branch,specialty,product_group,product_sub_group,risk_details
+EL-Group Mediclaim,OPP1900001042,3,Animesh Rawat,8000000,400000,13-11-19,Qualify Opportunity,Ahmedabad,Employee Benefits (EB),Employee Benefits,Mediclaim,Group Medical
+AL GPA,OPP1900001047,1,Vinay,200000,30000,31-03-20,Qualify Opportunity,Ahmedabad,Employee Benefits (EB),Employee Benefits,Mediclaim,Group Personal Accident
+BL - Marine STOP,OPP1900001048,1,Vinay,0,100000,30-06-20,Qualify Opportunity,Ahmedabad,Marine,Marine,Marine Hull,Charterers' Liability Policy
+II-Marine,OPP1900001050,1,Vinay,0,100000,31-03-20,Qualify Opportunity,Ahmedabad,Marine,Marine,Marine Hull,Charterers' Liability Policy
+PIL-Credit Insurance,OPP1900001051,1,Vinay,1200000,100000,31-03-20,Qualify Opportunity,Ahmedabad,Trade Credit &amp; Political Risk,Miscellaneous,Miscellaneous,Trade Credit Insurance
+PIL-CGL,OPP1900001052,1,Vinay,0,100000,31-05-20,Qualify Opportunity,Ahmedabad,Liability,Liability,Financial Lines,Commercial General Liability
+PIL -Marine,OPP1900001053,1,Vinay,0,100000,31-05-20,Qualify Opportunity,Ahmedabad,Marine,Marine,Marine Hull,Charterers' Liability Policy
+SGL- GMC,OPP1900001054,1,Vinay,0,125000,30-06-20,Qualify Opportunity,Ahmedabad,Employee Benefits (EB),Employee Benefits,Mediclaim,Group Medical
+Sandesh - Marine,OPP1900001055,1,Vinay,0,100000,31-03-20,Qualify Opportunity,Ahmedabad,Marine,Marine,Marine Hull,Charterers' Liability Policy
+VS.-Marine,OPP1900001056,12,Shivani Sharma,0,200000,31-03-20,Qualify Opportunity,Ahmedabad,Marine,Marine,Marine Hull,Charterers' Liability Policy
+II -  GMC,OPP1900001057,12,Shivani Sharma,0,75000,31-03-20,Qualify Opportunity,Ahmedabad,Employee Benefits (EB),Employee Benefits,Mediclaim,Group Medical
+II - GPA,OPP1900001058,12,Shivani Sharma,0,25000,31-03-20,Qualify Opportunity,Ahmedabad,Employee Benefits (EB),Employee Benefits,Mediclaim,Group Personal Accident
+G R -GMC,OPP1900001072,12,Shivani Sharma,2000000,150000,31-05-20,Qualify Opportunity,Ahmedabad,Employee Benefits (EB),Employee Benefits,Mediclaim,Group Medical
+DB- Cyber Liability,OPP1900001138,12,Shivani Sharma,500000,75000,31-05-20,Qualify Opportunity,Ahmedabad,Liability,Liability,Financial Lines,Cyber Liability Insurance
+KB GMC,OPP1900001222,3,Animesh Rawat,2500000,125000,01-12-19,Qualify Opportunity,Ahmedabad,Employee Benefits (EB),Employee Benefits,Mediclaim,Group Medical
+EI- GMC,OPP1900001364,10,Mark,1400000,100000,09-12-19,Qualify Opportunity,Ahmedabad,Employee Benefits (EB),Employee Benefits,Mediclaim,Group Medical
+CVP GMC,OPP1900001365,10,Mark,4500000,350000,11-12-19,Qualify Opportunity,Ahmedabad,Employee Benefits (EB),Miscellaneous,Miscellaneous,Group Medical
+Sin GMC,OPP1900001366,3,Animesh Rawat,9500000,200000,30-09-19,Negotiate,Ahmedabad,Employee Benefits (EB),Employee Benefits,Mediclaim,Group Medical
+FM-Group Mediclaim,OPP1900001390,10,Mark,4500000,300000,29-10-19,Qualify Opportunity,Ahmedabad,Employee Benefits (EB),Employee Benefits,Mediclaim,Group Medical
+Stem GMC,OPP1900001391,3,Animesh Rawat,0,100000,15-11-19,Qualify Opportunity,Ahmedabad,Employee Benefits (EB),Employee Benefits,Mediclaim,Group Medical
+DS- Employees GMC,OPP1900001392,3,Animesh Rawat,6000000,300000,01-12-19,Qualify Opportunity,Ahmedabad,Employee Benefits (EB),Employee Benefits,Mediclaim,Group Medical
+BVGMC,OPP1900001393,10,Mark,600000,100000,30-11-19,Qualify Opportunity,Ahmedabad,Emerging Corporates Group (ECG),Employee Benefits,Mediclaim,Group Medical
+BV GPA,OPP1900001394,10,Mark,210000,35000,30-11-19,Qualify Opportunity,Ahmedabad,Emerging Corporates Group (ECG),Employee Benefits,Mediclaim,Group Personal Accident
+GL-CGL,OPP1900001655,10,Mark,300000,49500,30-09-19,Negotiate,Ahmedabad,Liability,Liability,Financial Lines,Commercial General Liability
+GL-Crime,OPP1900001656,10,Mark,300000,49500,30-09-19,Negotiate,Ahmedabad,Liability,Liability,Financial Lines,Commercial Crime Insurance
+OP-GMC,OPP1900001803,10,Mark,5000000,250000,30-11-19,Qualify Opportunity,Ahmedabad,Employee Benefits (EB),Employee Benefits,Mediclaim,Group Medical
+Marine,OPP1900001843,3,Animesh Rawat,0,100000,31-10-19,Negotiate,Ahmedabad,Marine,Marine,Marine Cargo,Marine Combo policy ( EXIM +Inland)
+ITNL - IAR (Operational Roads),OPP1900001906,12,Shivani Sharma,90000000,200000,31-08-20,Qualify Opportunity,Ahmedabad,Property / BI,Fire,Constructions &amp; Infrastructure,Industrial All Risks
+Maine Open,OPP1900001923,3,Animesh Rawat,0,10000,30-09-19,Propose Solution,Ahmedabad,Marine,Marine,Marine Cargo,Marine Cargo
+BD PDBI,OPP1900001937,6,Ketan Jain,0,50000,31-03-20,Qualify Opportunity,Ahmedabad,Property / BI,Fire,Constructions &amp; Infrastructure,Fire &amp; Special Perils
+CI-CAR/EAR Policy,OPP1900001938,6,Ketan Jain,300000,30000,31-03-20,Qualify Opportunity,Ahmedabad,"Construction, Power & Infrastructure",Engineering,Engineering,Contractors All Risk
+Sandesh - PDBI,OPP1900001939,6,Ketan Jain,0,200000,31-03-20,Qualify Opportunity,Ahmedabad,Property / BI,Fire,Constructions &amp; Infrastructure,Fire &amp; Special Perils
+VS-PDBI,OPP1900001940,6,Ketan Jain,300000,50000,31-03-20,Qualify Opportunity,Ahmedabad,Property / BI,Fire,Constructions &amp; Infrastructure,Fire &amp; Special Perils
+ag - Property Insurance,OPP1900001941,6,Ketan Jain,1000000,100000,31-07-20,Qualify Opportunity,Ahmedabad,Property / BI,Fire,Constructions &amp; Infrastructure,Fire &amp; Special Perils
+BE-Mega policy,OPP1900001942,6,Ketan Jain,0,300000,30-06-20,Qualify Opportunity,Ahmedabad,Property / BI,Fire,Constructions &amp; Infrastructure,Fire &amp; Special Perils
+BC - PDBI,OPP1900001943,6,Ketan Jain,0,200000,30-06-20,Qualify Opportunity,Ahmedabad,Property / BI,Fire,Constructions &amp; Infrastructure,Fire &amp; Special Perils
+CP-PDBI,OPP1900001944,6,Ketan Jain,0,200000,30-06-20,Qualify Opportunity,Ahmedabad,Property / BI,Fire,Constructions &amp; Infrastructure,Fire &amp; Special Perils
+DB -Mega Policy,OPP1900001945,6,Ketan Jain,0,400000,30-06-20,Qualify Opportunity,Ahmedabad,Property / BI,Fire,Constructions &amp; Infrastructure,Fire &amp; Special Perils
+DB -Terrorism Policy,OPP1900001946,12,Shivani Sharma,0,300000,30-06-20,Qualify Opportunity,Ahmedabad,Crises Mgmt / Terr / Political Risks / K&amp;R,Terrorism,Political Risks,SABOTAGE &amp; TERRORISM &amp; Political Violence
+KG-CAR,OPP1900001947,12,Shivani Sharma,500000,50000,31-12-19,Qualify Opportunity,Ahmedabad,"Construction, Power & Infrastructure",Engineering,Engineering,Contractors All Risk
+G R -CAR,OPP1900001950,12,Shivani Sharma,1000000,100000,30-09-19,Qualify Opportunity,Ahmedabad,"Construction, Power & Infrastructure",Engineering,Engineering,Contractors All Risk
+SI-CAR,OPP1900001975,10,Mark,500000,62000,30-09-19,Qualify Opportunity,Ahmedabad,"Construction, Power & Infrastructure",Engineering,Engineering,Contractors All Risk
+GRTC-CAR,OPP1900001976,10,Mark,300000,37500,30-09-19,Qualify Opportunity,Ahmedabad,"Construction, Power & Infrastructure",Engineering,Engineering,Contractors All Risk
+PDBI,OPP1900002004,3,Animesh Rawat,700000,100000,31-12-19,Qualify Opportunity,Ahmedabad,Property / BI,Fire,Constructions &amp; Infrastructure,Fire &amp; Special Perils
+Infra-CAR,OPP1900002039,10,Mark,800000,50000,30-09-19,Qualify Opportunity,Ahmedabad,"Construction, Power & Infrastructure",Engineering,Engineering,Contractors All Risk
+Fire,OPP1900002070,3,Animesh Rawat,0,500000,01-10-19,Negotiate,Ahmedabad,Property / BI,Fire,Constructions &amp; Infrastructure,Fire &amp; Special Perils
+PI(Operational Road),OPP1900002092,12,Shivani Sharma,1000000,100000,31-12-19,Qualify Opportunity,Ahmedabad,Property / BI,Fire,Constructions &amp; Infrastructure,Fire &amp; Special Perils
+SFSP,OPP1900002098,3,Animesh Rawat,0,50000,30-09-19,Propose Solution,Ahmedabad,Property / BI,Fire,Constructions &amp; Infrastructure,Fire &amp; Special Perils
+VS.-D & O,OPP1900002104,12,Shivani Sharma,0,50000,31-03-20,Qualify Opportunity,Ahmedabad,Liability,Liability,Financial Lines,Director &amp; Officers / Management  Liability
